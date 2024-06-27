@@ -1,0 +1,44 @@
+/* Estilos para o cabeçalho */
+header {
+    background-color: #000000; /* Cor de fundo verde */
+    padding: 20px; /* Espaçamento interno */
+    text-align: center; /* Centraliza o texto */
+    color: white; /* Cor do texto */
+    margin-bottom: 20px; /* Margem inferior */
+}
+
+header h1 {
+    margin: 0; /* Remove margem padrão do título */
+    font-size: 24px; /* Tamanho da fonte do título */
+}
+
+header p {
+    font-size: 18px; /* Tamanho da fonte do parágrafo */
+    margin-top: 10px; /* Margem superior para separar do título */
+}
+
+/* Estilos para o conteúdo principal */
+body {
+    font-family: Arial, sans-serif; /* Fonte padrão */
+    line-height: 1.6; /* Altura da linha */
+    margin: 0 auto; /* Centraliza o conteúdo horizontalmente */
+    max-width: 800px; /* Largura máxima do conteúdo */
+    padding: 20px; /* Espaçamento interno */
+    background-color: #f8f8f8; /* Cor de fundo */
+}
+
+p {
+    font-size: 16px; /* Tamanho da fonte para parágrafos */
+    margin-bottom: 15px; /* Margem inferior para separar parágrafos */
+}
+
+ul {
+    list-style-type: disc; /* Marcador de lista com ponto */
+    padding-left: 20px; /* Recuo à esquerda da lista */
+}
+
+li {
+    font-size: 14px; /* Tamanho da fonte para itens da lista */
+    margin-bottom: 10px; /* Margem inferior para separar itens da lista */
+}
+
